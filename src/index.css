@@ -18,12 +18,12 @@
 }
 
 @theme {
+  /* Fonts */
   --font-aeonik: "Aeonik";
 
   /* Colors */
   --color-background: #021b04;
   --color-accent: linear-gradient(90deg, #e3ffe6 0%, #e5e1d6 100%);
-
   --color-primary: #ecf9e8;
   --color-accent-2: #e5e1d6;
 }
@@ -40,7 +40,6 @@ body {
   @apply bg-background text-primary;
 }
 
-/* Your original CSS */
 .innovate-text {
   position: relative;
   z-index: 1;
