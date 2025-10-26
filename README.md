@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 The Assignment is completed as per the instructions given in the [Figma link](https://www.figma.com/design/R3cd8OdWn3unrODhY2j3Iy/Front-End-Coding-Test?node-id=111-20&t=LG07qhPd2GSizPMP-0)
 
-#### Deployed link -> (Click Here!)
+#### Deployed link -> [Click Here!](https://frontend-assignment-flax-nu.vercel.app/)
 
 **Technologies Used**
 - Vite + React + TypeScript
