@@ -17,7 +17,7 @@ const contactDetails = {
 
 const Footer = () => {
   return (
-    <footer className="mb-8 flex flex-col items-center justify-around gap-y-8 px-4 lg:flex-row lg:items-start">
+    <footer className="flex flex-col items-center justify-around gap-y-8 px-4 lg:mb-8 lg:flex-row lg:items-start">
       <div>
         <img src={icons.brandLogo} alt="Brand Logo" />
       </div>
