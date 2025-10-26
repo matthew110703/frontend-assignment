@@ -3,7 +3,7 @@ import { Button, Divider } from "@/components/ui";
 
 const Home = () => {
   return (
-    <div className="space-y-16 xl:space-y-32">
+    <div className="space-y-24 xl:space-y-32">
       <Hero />
       <Portfolio />
       <AboutStats />

@@ -3,7 +3,7 @@ import { Button, Divider } from "../ui";
 
 const Hero = () => {
   return (
-    <div className="relative mx-auto flex w-11/12 flex-col justify-between sm:flex-row">
+    <div className="relative mx-auto flex w-11/12 flex-col justify-between md:flex-row">
       {/* Animations Overlays */}
       <div className="overlay-1 absolute top-[60%] left-[75%] z-10 h-32 w-[200px] rounded-[50px] bg-[#ECF9E8] blur-[100px]" />
       <div className="overlay-2 absolute top-[20%] right-[65%] z-10 h-28 w-[200px] rounded-[50px] bg-[#ECF9E8] blur-[90px]" />
@@ -60,7 +60,7 @@ const Hero = () => {
         </div>
       </div>
       {/* Image Section */}
-      <div className="h-full max-w-[557px] p-4 md:p-10 xl:w-full">
+      <div className="h-full max-w-[557px] px-4 py-8 md:p-10 xl:w-full">
         <img src={heroBanner} alt="Hero Banner" className="h-full w-full" />
       </div>
       <div className="mt-2 block md:hidden">
